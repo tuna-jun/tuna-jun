@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Indie Game Developer focused on gameplay-first experiences.
+  Indie Game Developer.
 </p>
 
 <p align="center">
